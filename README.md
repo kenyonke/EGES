@@ -1,5 +1,5 @@
 # EGES
-ZA EGES recall model(demo)
+ZA EGES model(retrieval)
 
 side infomation:
 
